@@ -7,3 +7,4 @@
 
 // STL includes
 #include <iostream>
+#include <vector>
